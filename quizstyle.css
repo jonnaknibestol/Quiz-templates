@@ -1,10 +1,10 @@
-body {background-color: #FF7F50;
+body {background-color: transparent;
 	max-width: 600 px;
 	margin: 5 auto;
 }
 h1 {color: white; 
 	text-align: center; 
-	font-family: Helvetica; 
+	font-family: 'Open Sans Condensed', sans-serif; 
 	font-size: 48px;}
 h2 {color: white; 
 	text-align: center; 
@@ -16,3 +16,11 @@ p {font-family: helvetica;
 boarder-bottom: 1px
 padding-bottom: 5px;}
 	a {color: #FFD558;}
+html { 
+  background: url(http://www.zastavki.com/pictures/originals/2014/Backgrounds_Wallpapers_with_gradient_background_082013_.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
